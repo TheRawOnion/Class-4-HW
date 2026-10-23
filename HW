@@ -1,0 +1,4 @@
+numbe = int(input("Please enter a number: "))
+sqrtval = numbe ** 0.5
+print("The square root of your number is: ", sqrtval)
+
